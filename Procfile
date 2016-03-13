@@ -1,1 +1,1 @@
-web: fsharpi-heroku karlovetestersuave\app.fsx
+web: fsharpi-heroku app.fsx
